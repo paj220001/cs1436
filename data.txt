@@ -1,0 +1,5 @@
+if(index > MAX_SCORES)
+{   }
+              else               {
+                cout << "Array is full! Ending the input.";
+              }
